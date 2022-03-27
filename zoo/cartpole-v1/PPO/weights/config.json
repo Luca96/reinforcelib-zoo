@@ -1,0 +1,27 @@
+{
+   "eval_total_reward": 500.0,
+   "reward_scale": {
+      "value": 1.0,
+      "step": 100
+   },
+   "entropy_strength": {
+      "value": 0.0010000000474974513,
+      "step": 100
+   },
+   "clip_ratio": {
+      "value": 0.20000000298023224,
+      "step": 100
+   },
+   "adv_scale": {
+      "value": 1.0,
+      "step": 100
+   },
+   "policy_lr": {
+      "value": 0.0003000000142492354,
+      "step": 100
+   },
+   "value_lr": {
+      "value": 0.0003000000142492354,
+      "step": 100
+   }
+}

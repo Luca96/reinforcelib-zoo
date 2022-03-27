@@ -1,0 +1,19 @@
+{
+   "reward_scale": {
+      "value": 1.0,
+      "step": 211
+   },
+   "critic_lr": {
+      "value": 0.0010000000474974513,
+      "step": 211
+   },
+   "actor_lr": {
+      "value": 0.0010000000474974513,
+      "step": 211
+   },
+   "noise": {
+      "value": 0.10000000149011612,
+      "step": 211
+   },
+   "eval_total_reward": 73.22
+}

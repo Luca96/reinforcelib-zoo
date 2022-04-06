@@ -22,16 +22,16 @@ Both agent's weights (under `\weights`) and the code (`code.py`) to reproduce th
 
 **CartPole-v1**:
 
-* [DQN + PER](https://github.com/Luca96/reinforcelib-zoo/zoo/cartpole-v1/DQN-PER)
-* [PPO](https://github.com/Luca96/reinforcelib-zoo/zoo/cartpole-v1/PPO)
+* DQN + PER
+* PPO
 
 **Hopper** (pyBullet):
 
-* [TD3](https://github.com/Luca96/reinforcelib-zoo/zoo/hopper/TD3)
+* TD3
 
 **LunarLanderContinuous-v2**:
 
-* [TD3](https://github.com/Luca96/reinforcelib-zoo/zoo/lunar-lander-continuous-v2/TD3)
+* TD3
 
 
 

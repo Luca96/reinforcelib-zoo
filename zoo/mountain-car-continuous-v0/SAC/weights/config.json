@@ -1,0 +1,23 @@
+{
+   "eval_total_reward": 94.29438781738281,
+   "reward_scale": {
+      "value": 1.0,
+      "step": 151
+   },
+   "entropy_lr": {
+      "value": 0.0010000000474974513,
+      "step": 151
+   },
+   "critic_lr": {
+      "value": 9.999999747378752e-05,
+      "step": 151
+   },
+   "actor_lr": {
+      "value": 9.999999747378752e-05,
+      "step": 151
+   },
+   "target_entropy": {
+      "value": -1.0,
+      "step": 151
+   }
+}

@@ -22,12 +22,21 @@ Both agent's weights (under `\weights`) and the code (`code.py`) to reproduce th
 
 <img src="zoo/acrobot-v1/acrobot.gif" alt="acrobot-v1" style="zoom:67%;" />
 
+**Pendulum-v1**:
+
+* SAC + PER
+
+<img src="zoo/pendulum-v1/pendulum.gif" alt="pendulum-v1" style="zoom:67%;" />
+
 **MountainCarContinuous-v0**:
 
 * SAC
 
 <img src="zoo/mountain-car-continuous-v0/mountain_car_cont.gif" alt="mountain-car-continuous-v0" style="zoom:67%;" />
 
+---
+
+### Box2D
 
 **LunarLanderContinuous-v2**:
 
